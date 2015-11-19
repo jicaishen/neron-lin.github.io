@@ -105,7 +105,7 @@ webpackJsonp([1],[
 	var Container = React.createClass({displayName: "Container",
 	    render: function(){
 	        return (
-	            React.createElement("div", null, 
+	            React.createElement("section", null, 
 	                React.createElement(Primary, null), 
 	                React.createElement(Content, null)
 	            )

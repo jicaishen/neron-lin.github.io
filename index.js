@@ -101,10 +101,10 @@ var Content = React.createClass({
 var Container = React.createClass({
     render: function(){
         return (
-            <div>
+            <section>
                 <Primary />
                 <Content />
-            </div>
+            </section>
         );
     }
 });
